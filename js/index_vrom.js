@@ -15,7 +15,7 @@ entrada.addEventListener('keyup', (e)=>{
   valor[0] = entrada.value
   valor2[0] = parseInt(valor[0], 2)
   if(e.key != "1" && e.key != "0" && e.key != "Backspace" ){
-    window.alert("Digite Somente 0 ou 1")
+     window.alert("Digite Somente 0 ou 1")
   }
 }) 
 
