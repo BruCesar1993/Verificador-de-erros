@@ -15,6 +15,7 @@ img{
 #topo{
     background-color:#ee3338;
     
+    
 }
 
 .faixa{
@@ -63,8 +64,8 @@ img{
     color: white;
     background-color: #ee3338 ;
     margin: 0 auto;
-    margin-top: 10px;
-    max-width: 40%;
+    margin-top: 20px;
+    max-width: 50%;
     height: 35px;
     padding: 2px;
     
